@@ -1,5 +1,3 @@
-Add some text for commit-hook
-
 # shipio-example-ios
 [https://www.ship.io](https://www.ship.io)
 
